@@ -1,0 +1,18 @@
+{
+  "name": "cypress-folder",
+  "version": "1.0.0",
+  "description": "automatyzacja testów w cypress",
+  "main": "index.js",
+  "scripts": {
+    "test123": "cypress run --spec cypress/e2e/wpisywanie.cy.js"
+  },
+  "keywords": [
+    "automatyzacja",
+    "cypress",
+    "testy"
+  ],
+  "author": "BW",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.1"
+  }}
